@@ -2,7 +2,7 @@ import random
 import time
 
 import requests
-from BeautifulSoup import BeautifulSoup
+from bs4 import BeautifulSoup
 
 from methods import *
 from config import endpoints
